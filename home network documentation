@@ -1,0 +1,16 @@
+this is all the networking information on my network
+WiFi router 
+  IP/Default gateway is 192.168.100.254 
+  Subnet mask is 255.255.255.0
+laptop 1
+  IP Address 192.168.100.124
+  Subnet Mask 255.255.255.0
+  MAC Address A8-E2-91-BA-FF-A6
+laptop 2 
+  IP Address 192.168.100.133
+  Subnet Mask 255.255.255.0
+  MAC Address 38-B1-DB-FF-1C-81
+Desktop 
+  IP Address 192.168.100.255
+  Subnet Mask 255.255.255.0
+  MAC Address 34-C9-3D-2C-4E-12
