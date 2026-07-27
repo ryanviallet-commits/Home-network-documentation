@@ -18,7 +18,7 @@
 ## This is all the network device inventory 
   ### ISP
     Bell Fiber  
-  WiFi router  
+ ## WiFi router  
     bell home hub 3000  
   ### Desktop
     Lenovo Leagion T5 Gaming PC 10th gen  
