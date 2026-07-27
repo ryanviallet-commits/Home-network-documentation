@@ -22,7 +22,7 @@
     bell home hub 3000  
   ### Desktop
     Lenovo Leagion T5 Gaming PC 10th gen  
-  #### Laptop 1
+  ### Laptop 1
     HP ProBook 445 14 inch G11 Notebook PC
   ### Laptop 2
     HP Pavilion 17-g148dx   
