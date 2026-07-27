@@ -32,10 +32,13 @@ bitwarden is a free open source Password Manager that is fully encrypted and Sto
 it can be used as a web extention, an app on your phone and a application on your computer.
 Bitwarden uses end too end zero-Knowledge encryption which means your passwords are encrypted on your device so if anyone tries too hack into it they wont see any passwords or sensitive information  
 
+  ## Device Configuration Information
+  All the Configurations for the router are managed by the ISP so i cannot Access that information  
 
 ## Revision History 
 Friday July 24th 6:00 PM  
 Sunday July 26th 5:00 PM  
+Completed July 27th 5:00 PM   
 
 ## Refrences
 https://bitwarden.com/resources/bitwarden-overview/
