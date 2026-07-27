@@ -1,1 +1,41 @@
+# this is all the networking information on my network
+  ## WiFi router 
+    IP/Default gateway is 192.168.100.254 
+    Subnet mask is 255.255.255.0
+   ### Laptop 1  
+     IP Address 192.168.100.124  
+    Subnet Mask 255.255.255.0  
+    MAC Address A8-E2-91-BA-FF-A6  
+   ### laptop 2 
+    IP Address 192.168.100.133  
+    Subnet Mask 255.255.255.0  
+    MAC Address 38-B1-DB-FF-1C-81  
+  ### Desktop 
+    IP Address 192.168.100.255  
+    Subnet Mask 255.255.255.0  
+    MAC Address 34-C9-3D-2C-4E-12  
 
+## This is all the network device inventory 
+  ### ISP
+    Bell Fiber  
+  WiFi router  
+    bell home hub 3000  
+  ### Desktop
+    Lenovo Leagion T5 Gaming PC 10th gen  
+  #### Laptop 1
+    HP ProBook 445 14 inch G11 Notebook PC
+  ### Laptop 2
+    HP Pavilion 17-g148dx   
+  ## Secure passwords
+the metheod for saving login credentials securly i use is using a application called bitwarden.
+bitwarden is a free open source Password Manager that is fully encrypted and Stores all your login information and passwords.  
+it can be used as a web extention, an app on your phone and a application on your computer.
+Bitwarden uses end too end zero-Knowledge encryption which means your passwords are encrypted on your device so if anyone tries too hack into it they wont see any passwords or sensitive information  
+
+
+## Revision History 
+Friday July 24th 6:00 PM  
+Sunday July 26th 5:00 PM  
+
+## Refrences
+https://bitwarden.com/resources/bitwarden-overview/
