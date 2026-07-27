@@ -27,5 +27,11 @@ This is all the network device inventory
   Laptop 2
     HP Pavilion 17-g148dx 
   
-the metheod for saving login credentials securly is using a application called bitwarden.
-bitwarden is a open source 
+the metheod for saving login credentials securly i use is using a application called bitwarden.
+bitwarden is a free open source Password Manager that is fully encrypted and Stores all your login information and passwords.  
+it can be used as a web extention, an app on your phone and a application on your computer.
+Bitwarden uses end too end zero-Knowledge encryption which means your passwords are encrypted on your device so if anyone tries too hack into it they wont see any passwords or sensitive information
+
+refrences
+https://bitwarden.com/resources/bitwarden-overview/
+
